@@ -8,10 +8,10 @@ This application uses:
 - Amazon SNS: A notification service that notifies the subscriber of new available tweets.
 
 Application Architecture:
-![Alt text](/../screenshots/arch.JPG?raw=true "Application Architecture")
+![Alt text](TwittMap/arch.JPG?raw=true "Application Architecture")
 
 Web Application Screenshot:
-![Alt text](/../screenshots/appscreen.JPG?raw=true "Screenshot")
+![Alt text](TwittMap/appscreen.JPG?raw=true "Screenshot")
 
 
 This application is created using Python Django framework and hosted on AWS BeanStalk.
